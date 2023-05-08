@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContactosApp</string>
+    <string name="unknown_host_exception_error">There is no Internet</string>
+    <string name="unknown_error">There was an error</string>
+</resources>
